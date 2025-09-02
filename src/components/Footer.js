@@ -24,7 +24,7 @@ const Sidebar = () => {
                 <div className="footer-section"><h3>Social:</h3>
                     <div className="footer-content socials">
                        <Link to='https://www.linkedin.com/in/robert-a-morrison'><span><FontAwesomeIcon icon="fa-brands fa-square-linkedin" size="2xl" /></span></Link>
-                       <Link to='https://www.linkedin.com/in/robert-a-morrison'><span><FontAwesomeIcon icon="fa-brands fa-github" size="2xl"/></span></Link>
+                       <Link to='https://github.com/rob-botics/'><span><FontAwesomeIcon icon="fa-brands fa-github" size="2xl"/></span></Link>
                     </div>
                 </div>
                 <div className="footer-section"><h3>Contact:</h3>

@@ -19,7 +19,7 @@ const Footer = () => {
                     <h3>Social:</h3>
                     <div>
                         <span><a href='https://www.instagram.com/sweetlittlem_'><FontAwesomeIcon icon="fa-brands fa-instagram" size='xl'/></a></span>
-                        <span><a href='https://github.com/rob-botics'><FontAwesomeIcon icon="fa-brands fa-github-alt" size='xl'/></a></span>
+                        <span><a href='https://github.com/rob-botics/'><FontAwesomeIcon icon="fa-brands fa-github-alt" size='xl'/></a></span>
                     </div>
                 </div>
                 <p>This Website's Intent Is Only For A Class Assignment.</p>
